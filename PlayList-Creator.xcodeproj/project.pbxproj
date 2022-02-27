@@ -17,6 +17,7 @@
 		B5EEB22127CC29BA005C3E12 /* SongController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EEB22027CC29BA005C3E12 /* SongController.swift */; };
 		B5EEB22327CC29D9005C3E12 /* PlaylistController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EEB22227CC29D9005C3E12 /* PlaylistController.swift */; };
 		B5EEB22527CC2A16005C3E12 /* SongTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EEB22427CC2A16005C3E12 /* SongTableViewController.swift */; };
+		B5EEB22727CC2A48005C3E12 /* PlaylistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EEB22627CC2A48005C3E12 /* PlaylistViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		B5EEB22027CC29BA005C3E12 /* SongController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongController.swift; sourceTree = "<group>"; };
 		B5EEB22227CC29D9005C3E12 /* PlaylistController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistController.swift; sourceTree = "<group>"; };
 		B5EEB22427CC2A16005C3E12 /* SongTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongTableViewController.swift; sourceTree = "<group>"; };
+		B5EEB22627CC2A48005C3E12 /* PlaylistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 			isa = PBXGroup;
 			children = (
 				B5EEB22427CC2A16005C3E12 /* SongTableViewController.swift */,
+				B5EEB22627CC2A48005C3E12 /* PlaylistViewController.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5EEB22727CC2A48005C3E12 /* PlaylistViewController.swift in Sources */,
 				B5EEB22127CC29BA005C3E12 /* SongController.swift in Sources */,
 				B5EEB22527CC2A16005C3E12 /* SongTableViewController.swift in Sources */,
 				B5EEB21D27CC282E005C3E12 /* Song.swift in Sources */,
