@@ -16,6 +16,7 @@
 		B5EEB21F27CC2839005C3E12 /* Playlist.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EEB21E27CC2839005C3E12 /* Playlist.swift */; };
 		B5EEB22127CC29BA005C3E12 /* SongController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EEB22027CC29BA005C3E12 /* SongController.swift */; };
 		B5EEB22327CC29D9005C3E12 /* PlaylistController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EEB22227CC29D9005C3E12 /* PlaylistController.swift */; };
+		B5EEB22527CC2A16005C3E12 /* SongTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EEB22427CC2A16005C3E12 /* SongTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		B5EEB21E27CC2839005C3E12 /* Playlist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Playlist.swift; sourceTree = "<group>"; };
 		B5EEB22027CC29BA005C3E12 /* SongController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongController.swift; sourceTree = "<group>"; };
 		B5EEB22227CC29D9005C3E12 /* PlaylistController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistController.swift; sourceTree = "<group>"; };
+		B5EEB22427CC2A16005C3E12 /* SongTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		B5EEB21B27CC27DD005C3E12 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
+				B5EEB22427CC2A16005C3E12 /* SongTableViewController.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B5EEB22127CC29BA005C3E12 /* SongController.swift in Sources */,
+				B5EEB22527CC2A16005C3E12 /* SongTableViewController.swift in Sources */,
 				B5EEB21D27CC282E005C3E12 /* Song.swift in Sources */,
 				B5EEB20427CC26DF005C3E12 /* AppDelegate.swift in Sources */,
 				B5EEB20627CC26DF005C3E12 /* SceneDelegate.swift in Sources */,
